@@ -1,0 +1,42 @@
+build:
+    download_url: http://data.medicare.gov/views/bg9k-emty/files/K2mijv-Kwa3BxIvmpxh3ZYiFHcn_15Cd4WbvhBb9m3s?filename=HHCompare_Revised_FlatFiles.zip
+    requirements: {}
+dependencies: {}
+sources:
+    casper_aspen_contacts:
+        description: The state agency contact information for maintaining the home
+            health agency information that resides on the CMS certification system.
+        url: Home_Health_Compare_CASPER_ASPEN_Contacts.csv
+    hhcahps_national:
+        description: National averages for the patient experience of care survey measures.
+        url: HHC_SOCRATA_HHCAHPS_NATIONAL.csv
+    hhcahps_prvdr:
+        description: Information on the Patient Experience of Care Survey results
+            for each home health agency.
+        url: HHC_SOCRATA_HHCAHPS_PRVDR.csv
+    hhcahps_state:
+        description: State averages for the patient experience of care survey measures.
+        url: HHC_SOCRATA_HHCAHPS_STATE.csv
+    msr_dt_rng:
+        description: The beginning and end dates of the data collection period for
+            each measure reported on Home Health Compare.
+        row_spec:
+            delimiter: t
+        url: HHC_SOCRATA_MSR_DT_RNG.csv
+    national:
+        description: National averages for the patient outcome and process measures
+            reported on Home Health Compare.
+        url: HHC_SOCRATA_NATIONAL.csv
+    prvdr:
+        description: information on the home health agency, the type of services offered
+            to patients, and the values of the patient outcome and process quality
+            measures reported on Home Health Compare.
+        url: HHC_SOCRATA_PRVDR.csv
+    state:
+        description: State averages for the patient outcome and process measures reported
+            on Home Health Compare.
+        url: HHC_SOCRATA_STATE.csv
+    zip:
+        description: information on the areas served by the home health agency.
+        url: HHC_SOCRATA_ZIP.csv
+views: {}
