@@ -14,8 +14,8 @@ sources:
     hhcahps_prvdr:
         description: Information on the Patient Experience of Care Survey results
             for each home health agency.
-        file: HHC_SOCRATA_HHCAHPS_PRVDR.csv
         encoding: latin-1
+        file: HHC_SOCRATA_HHCAHPS_PRVDR.csv
         url: http://data.medicare.gov/views/bg9k-emty/files/K2mijv-Kwa3BxIvmpxh3ZYiFHcn_15Cd4WbvhBb9m3s?filename=HHCompare_Revised_FlatFiles.zip
     hhcahps_state:
         description: State averages for the patient experience of care survey measures.
@@ -24,27 +24,27 @@ sources:
     msr_dt_rng:
         description: The beginning and end dates of the data collection period for
             each measure reported on Home Health Compare.
-        file: HHC_SOCRATA_MSR_DT_RNG.csv
         encoding: latin-1
+        file: HHC_SOCRATA_MSR_DT_RNG.csv
         url: http://data.medicare.gov/views/bg9k-emty/files/K2mijv-Kwa3BxIvmpxh3ZYiFHcn_15Cd4WbvhBb9m3s?filename=HHCompare_Revised_FlatFiles.zip
     national:
         description: National averages for the patient outcome and process measures
             reported on Home Health Compare.
-        file: HHC_SOCRATA_NATIONAL.csv
         encoding: latin-1
+        file: HHC_SOCRATA_NATIONAL.csv
         url: http://data.medicare.gov/views/bg9k-emty/files/K2mijv-Kwa3BxIvmpxh3ZYiFHcn_15Cd4WbvhBb9m3s?filename=HHCompare_Revised_FlatFiles.zip
     prvdr:
         description: information on the home health agency, the type of services offered
             to patients, and the values of the patient outcome and process quality
             measures reported on Home Health Compare.
-        file: HHC_SOCRATA_PRVDR.csv
         encoding: latin-1
+        file: HHC_SOCRATA_PRVDR.csv
         url: http://data.medicare.gov/views/bg9k-emty/files/K2mijv-Kwa3BxIvmpxh3ZYiFHcn_15Cd4WbvhBb9m3s?filename=HHCompare_Revised_FlatFiles.zip
     state:
         description: State averages for the patient outcome and process measures reported
             on Home Health Compare.
-        file: HHC_SOCRATA_STATE.csv
         encoding: latin-1
+        file: HHC_SOCRATA_STATE.csv
         url: http://data.medicare.gov/views/bg9k-emty/files/K2mijv-Kwa3BxIvmpxh3ZYiFHcn_15Cd4WbvhBb9m3s?filename=HHCompare_Revised_FlatFiles.zip
     zip:
         description: information on the areas served by the home health agency.
