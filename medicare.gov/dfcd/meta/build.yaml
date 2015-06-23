@@ -1,0 +1,16 @@
+build:
+    requirements: {}
+dependencies: {}
+sources:
+    supplier_data:
+        description: Official Supplier Directory Data
+        encoding: latin-1
+        file: SupplierData
+        row_spec:
+            data_end_line: 6
+            data_start_line: 2
+            header_comment_lines: []
+            header_lines:
+            - 0
+        url: http://data.medicare.gov/views/bg9k-emty/files/S3U4-qJbTLe97Q3Q8-vUPleO6hxmYzkozXh5Iaz4WPs?filename=Supplier_Revised_Flatfiles.zip
+views: {}
