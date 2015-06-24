@@ -1,0 +1,4 @@
+name,title,table,segment,time,space,grain,start_line,end_line,comment_lines,header_lines,description,url,ref
+state_data,,,,,,,1,4,,0,,http://data.medicare.gov/views/bg9k-emty/files/qUrdPCwgdv-H4tocW1m_6PtReuPSzyJHioinJ0_UkdI?filename=DFCompare_Revised_FlatFiles.zip,
+fac_data,,,,,,,1,48,,0,,http://data.medicare.gov/views/bg9k-emty/files/qUrdPCwgdv-H4tocW1m_6PtReuPSzyJHioinJ0_UkdI?filename=DFCompare_Revised_FlatFiles.zip,
+qip_data,,,,,,,11,12,,0,,http://data.medicare.gov/views/bg9k-emty/files/qUrdPCwgdv-H4tocW1m_6PtReuPSzyJHioinJ0_UkdI?filename=DFCompare_Revised_FlatFiles.zip,

@@ -1,0 +1,21 @@
+build:
+    requirements: {}
+dependencies: {}
+sources:
+    fac_data:
+        description:
+        file: DFC_SOCRATA_FAC_DATA.csv
+        url: http://data.medicare.gov/views/bg9k-emty/files/qUrdPCwgdv-H4tocW1m_6PtReuPSzyJHioinJ0_UkdI?filename=DFCompare_Revised_FlatFiles.zip
+    national_data:
+        description:
+        file: DFC_SOCRATA_NATIONAL_DATA.csv
+        url: http://data.medicare.gov/views/bg9k-emty/files/qUrdPCwgdv-H4tocW1m_6PtReuPSzyJHioinJ0_UkdI?filename=DFCompare_Revised_FlatFiles.zip
+    state_data:
+        description:
+        file: DFC_SOCRATA_STATE_DATA.csv
+        url: http://data.medicare.gov/views/bg9k-emty/files/qUrdPCwgdv-H4tocW1m_6PtReuPSzyJHioinJ0_UkdI?filename=DFCompare_Revised_FlatFiles.zip
+    qip_data:
+        description:
+        file: PY2015 Complete QIP Data.csv
+        url: http://data.medicare.gov/views/bg9k-emty/files/qUrdPCwgdv-H4tocW1m_6PtReuPSzyJHioinJ0_UkdI?filename=DFCompare_Revised_FlatFiles.zip
+views: {}

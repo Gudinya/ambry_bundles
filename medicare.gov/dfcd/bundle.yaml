@@ -9,10 +9,10 @@ about:
     source: null
     space: US
     subject: null
-    summary: Supplier Directory Data
+    summary: Dialysis Facility Compare Data
     tags: []
     time: null
-    title: Supplier Directory Data
+    title: Dialysis Facility Compare Data
 contact_bundle:
     creator:
         email: gudinya@gmail.com
@@ -30,17 +30,17 @@ external_documentation:
         description: Main webpage for the dataset.
         source: null
         title: Dataset Page
-        url: https://data.medicare.gov/data/supplier-directory
+        url: https://data.medicare.gov/data/dialysis-facility-compare
     download:
         description: Web page that links to the source files.
         source: null
         title: Download Page
-        url: https://data.medicare.gov/data/supplier-directory
+        url: https://data.medicare.gov/data/dialysis-facility-compare
 identity:
     bspace: null
     btime: null
-    dataset: sdd
-    id: dPfh1pI0Sf
+    dataset: dfcd
+    id: dF0JmIXWQ9
     revision: 1
     source: medicare.gov
     subset: null
@@ -48,8 +48,8 @@ identity:
     variation: null
     version: 0.0.1
 names:
-    fqname: medicare.gov-sdd-0.0.1~dPfh1pI0Sf001
-    name: medicare.gov-sdd
-    vid: dPfh1pI0Sf001
-    vname: medicare.gov-sdd-0.0.1
+    fqname: medicare.gov-dfcd-0.0.1~dF0JmIXWQ9001
+    name: medicare.gov-dfcd
+    vid: dF0JmIXWQ9001
+    vname: medicare.gov-dfcd-0.0.1
 process: {}
